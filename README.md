@@ -6,7 +6,7 @@ Based in Gothenburg, Sweden — occasionally Stockholm.
 
 **Workflow:** I use an AI assisted workflow with Cursor and Claude code. I don't test, just ship.
 
-**Tech stack focus:** Building with next js and typescript
+**Tech stack:** Next.js, TypeScript, and hope 
 
 Learning C on the side for fun and experimenting with the notorious Openclaw/Clawdbot.
 
