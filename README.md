@@ -1,8 +1,8 @@
 # I'm Emil.
 
-Working on a fintech startup in Stockholm
+Working on a fintech startup in Stockholm.
 
-Based in Gothenburg, Sweden — occasionally Stockholm.
+I'm based in Gothenburg, Sweden — occasionally Stockholm.
 
 **Workflow:** I use an AI assisted workflow with Cursor and Claude code. I don't test, just ship.
 
