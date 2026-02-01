@@ -1,16 +1,13 @@
-## Hi there 👋
+I'm Emil.
 
-<!--
-**mattssonn/mattssonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Working on a fintech startup in Stockholm
 
-Here are some ideas to get you started:
+Based in Gothenburg, Sweden — occasionally Stockholm.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Workflow:** I use an AI assisted workflow with Cursor and Claude code. I don't test, just ship.
+
+**Tech stack focus:** Building with next js and typescript
+
+Learning C on the side for fun and experimenting with the notorious Openclaw/Clawdbot.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emil-amn%C3%A4s-mattsson-020b2b218/)
