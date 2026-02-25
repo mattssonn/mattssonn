@@ -2,11 +2,11 @@
 
 Working on a fintech startup in Stockholm.
 
-I'm based in Gothenburg, Sweden — occasionally Stockholm.
+I'm based in Gothenburg, Sweden.
 
-**Workflow:** I use an AI assisted workflow with Cursor and Claude code. I don't test, just ship.
+**Workflow:** I just close my eyes and ship.
 
-**Tech stack:** Next.js, TypeScript, and hope 
+**Tech stack:** Mainly typescript
 
 Learning C on the side for fun and experimenting with the notorious Openclaw/Clawdbot.
 
